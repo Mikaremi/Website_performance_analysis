@@ -1,5 +1,5 @@
 # Website_performance_analysis
-The problem I am working on in this article is my take on a problem I found at statso. The dataset I am working on contains the following columns:
+The problem I am working on in this project is my take on a problem I found at statso. The dataset I am working on contains the following columns:
 
 * Session primary channel group: The marketing channel (e.g., Direct, Organic Social)
 * Date + hour (YYYYMMDDHH): The specific date and hour of the session
